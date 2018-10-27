@@ -4,3 +4,5 @@ print('a')
 print('a')
 print('a')
 print('a')
+dont print a
+this will harm you
